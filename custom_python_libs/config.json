@@ -1,0 +1,19 @@
+{
+  "name": "Custom Python Libraries",
+  "version": "1.0",
+  "slug": "custom_python_libs",
+  "description": "Install custom Python libraries",
+  "options": {},
+  "schema": {},
+  "boot": "auto",
+  "auto_update": false,
+  "startup": "services",
+  "map": ["config:rw"],
+  "ports": {},
+  "host_network": false,
+  "privileged": [],
+  "devices": [],
+  "environment": [],
+  "services": [],
+  "discovery": []
+}
